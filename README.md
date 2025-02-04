@@ -1,1 +1,1 @@
-# My-First-Java-program
+My first Scratch activity
